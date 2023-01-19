@@ -1,8 +1,17 @@
 {
-  "dependencies": {
-    "@splinetool/runtime": "^0.9.128",
-    "starback": "^2.1.2",
-    "startbootstrap-grayscale": "^7.0.5",
-    "three": "^0.147.0"
-  }
+    "name": "untitled",
+    "version": "1.0.0",
+    "description": "Scene exported with Spline",
+    "scripts": {
+        "start": "serve"
+    },
+    "devDependencies": {
+        "serve": "^13.0.2"
+    },
+    "dependencies": {
+        "@splinetool/runtime": "^0.9.128",
+        "starback": "^2.1.2",
+        "startbootstrap-grayscale": "^7.0.5",
+        "three": "^0.147.0"
+    }
 }
